@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.asm": "nasm",
+			"vector.h": "c",
+			"matrix.h": "c",
+			"math.h": "c",
+			"texture.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}
